@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Gw2TPWatcher.TPWatcherService" CodeBehind="TPWatcherService.svc.cs" %>
